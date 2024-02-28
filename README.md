@@ -39,7 +39,7 @@ This list includes projects, extensions or demos showcasing how to use PostgreSQ
 * 📝[Image recognition with Python, OpenCV, OpenAI CLIP and pgvector](https://aiven.io/developer/find-faces-with-pgvector) by [Francesco Tisiot](https://www.linkedin.com/in/francescotisiot)
 * 📝[TensorFlow, PostgreSQL®, PGVector & Next.js: building a movie recommender](https://aiven.io/developer/building-a-movie-recommender) by [Olena Kutsenko](https://www.linkedin.com/in/olenakutsenko/)
 * 📽️[TensorFlow, PostgreSQL®, PGVector & Next.js: building a movie recommender](https://youtu.be/ll2VjbGHO4E) by [Olena Kutsenko](https://www.linkedin.com/in/olenakutsenko/)
-* 📽️[How I found my Pokémon cards thanks to Postgres: an AI Journey](https://www.youtube.com/watch?v=QofVrNDSby4) by Matt Cornillon at [pgconf.eu 2023](https://2023.pgconf.eu/)
+* 📽️[How I found my Pokémon cards thanks to Postgres: an AI Journey](https://www.youtube.com/watch?v=QofVrNDSby4) by [Matt Cornillon](https://www.linkedin.com/in/matt-cornillon/) at [pgconf.eu 2023](https://2023.pgconf.eu/)
 * 📽️[PostgresML: How to Use AI Models and Machine Learning Algorithms in Your Database](https://www.youtube.com/watch?v=JTgl5GwrMu8) by Let's Talk Dev
 
 ### What's next
