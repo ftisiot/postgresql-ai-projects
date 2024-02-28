@@ -9,6 +9,7 @@ This list includes projects, extensions or demos showcasing how to use PostgreSQ
 ## ➕ Extensions
 
 * [pgvector](https://github.com/pgvector/pgvector): open-source vector similarity search for PostgreSQL. Includes vector storage and similarity search, as well as IVFFlat and HNSW indexing
+* [pg_vectorize](https://github.com/tembo-io/pg_vectorize): open-source PostgreSQL extension that automates the transformation and orchestration of text to embeddings, allowing vector and semantic search on existing data with as little as two function calls.
 * [postgresml](https://github.com/postgresml/postgresml): Generative AI and Simple ML with PostgreSQL. Perform Text classification, Translation, Summarization directly in SQL within the PostgreSQL database.
 
 ## 💡 Applications
