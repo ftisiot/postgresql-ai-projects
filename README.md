@@ -20,13 +20,13 @@ This list includes projects, extensions or demos showcasing how to use PostgreSQ
 
 ### 📑 Text to SQL and SQL to Text
 
-* [Text to SQL](https://www.eversql.com/text-to-sql/): auto-generate SQL queries from text for free by [EverSQL by Aiven](https://www.eversql.com/)
-* [SQL to Text](https://www.eversql.com/sql-to-text/): explains in plain english what your SQL query does by [EverSQL by Aiven](https://www.eversql.com/)
+* [Text to SQL](https://www.eversql.com/text-to-sql/): auto-generate SQL queries from text for free by [EverSQL by Aiven](https://www.eversql.com/?utm_medium=organic&utm_source=ext_blog&utm_content=listpostgresai)
+* [SQL to Text](https://www.eversql.com/sql-to-text/?utm_medium=organic&utm_source=ext_blog&utm_content=listpostgresai): explains in plain english what your SQL query does by [EverSQL by Aiven](https://www.eversql.com/?utm_medium=organic&utm_source=ext_blog&utm_content=listpostgresai)
 
 
 ### ⚡️ Query Optimizer
 
-* [EverSQL query optimizer](https://www.eversql.com/sql-query-optimizer/): AI-driven query optimizer based on SQL and database metadata. Monitor your database and receive performance insights and improvement suggestions for free
+* [EverSQL query optimizer](https://www.eversql.com/sql-query-optimizer/?utm_medium=organic&utm_source=ext_blog&utm_content=listpostgresai): AI-driven query optimizer based on SQL and database metadata. Monitor your database and receive performance insights and improvement suggestions for free
 
 ### 🎛️ Configuration Tuning
 
@@ -42,6 +42,7 @@ This list includes projects, extensions or demos showcasing how to use PostgreSQ
 * 📽️[TensorFlow, PostgreSQL®, PGVector & Next.js: building a movie recommender](https://youtu.be/ll2VjbGHO4E) by [Olena Kutsenko](https://www.linkedin.com/in/olenakutsenko/)
 * 📽️[How I found my Pokémon cards thanks to Postgres: an AI Journey](https://www.youtube.com/watch?v=QofVrNDSby4) by [Matt Cornillon](https://www.linkedin.com/in/matt-cornillon/) at [pgconf.eu 2023](https://2023.pgconf.eu/)
 * 📽️[PostgresML: How to Use AI Models and Machine Learning Algorithms in Your Database](https://www.youtube.com/watch?v=JTgl5GwrMu8) by Let's Talk Dev
+* 📝[What's Postgres Got To Do With AI?](https://www.crunchydata.com/blog/whats-postgres-got-to-do-with-ai) by Crunchy Data
 
 ### What's next
 
