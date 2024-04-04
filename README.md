@@ -11,6 +11,7 @@ This list includes projects, extensions or demos showcasing how to use PostgreSQ
 * [pgvector](https://github.com/pgvector/pgvector): open-source vector similarity search for PostgreSQL. Includes vector storage and similarity search, as well as IVFFlat and HNSW indexing
 * [pg_vectorize](https://github.com/tembo-io/pg_vectorize): open-source PostgreSQL extension that automates the transformation and orchestration of text to embeddings, allowing vector and semantic search on existing data with as little as two function calls.
 * [postgresml](https://github.com/postgresml/postgresml): Generative AI and Simple ML with PostgreSQL. Perform Text classification, Translation, Summarization directly in SQL within the PostgreSQL database.
+* [azure_ai](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/introducing-the-azure-ai-extension-to-azure-database-for/ba-p/3980291):  Enables you to integrate Azure AI services with your operational data
 
 ## 💡 Applications
 
@@ -43,6 +44,7 @@ This list includes projects, extensions or demos showcasing how to use PostgreSQ
 * 📽️[How I found my Pokémon cards thanks to Postgres: an AI Journey](https://www.youtube.com/watch?v=QofVrNDSby4) by [Matt Cornillon](https://www.linkedin.com/in/matt-cornillon/) at [pgconf.eu 2023](https://2023.pgconf.eu/)
 * 📽️[PostgresML: How to Use AI Models and Machine Learning Algorithms in Your Database](https://www.youtube.com/watch?v=JTgl5GwrMu8) by Let's Talk Dev
 * 📝[What's Postgres Got To Do With AI?](https://www.crunchydata.com/blog/whats-postgres-got-to-do-with-ai) by Crunchy Data
+* 📝[Real-time text translation using the azure_ai extension in Azure Database for PostgreSQL](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/real-time-text-translation-using-the-azure-ai-extension-in-azure/ba-p/4081157) by [Denzil Ribeiro](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/218602)
 
 ### What's next
 
