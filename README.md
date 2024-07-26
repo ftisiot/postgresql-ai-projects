@@ -12,6 +12,7 @@ This list includes projects, extensions or demos showcasing how to use PostgreSQ
 * [pg_vectorize](https://github.com/tembo-io/pg_vectorize): open-source PostgreSQL extension that automates the transformation and orchestration of text to embeddings, allowing vector and semantic search on existing data with as little as two function calls.
 * [postgresml](https://github.com/postgresml/postgresml): Generative AI and Simple ML with PostgreSQL. Perform Text classification, Translation, Summarization directly in SQL within the PostgreSQL database.
 * [azure_ai](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/introducing-the-azure-ai-extension-to-azure-database-for/ba-p/3980291):  Enables you to integrate Azure AI services with your operational data
+* [azure_local_ai](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/introducing-in-database-embedding-generation-for-azure-database/ba-p/4146265):  Enables you to generate embeddings within the PostgreSQL database.
 
 ## 💡 Applications
 
