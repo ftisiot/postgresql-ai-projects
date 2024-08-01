@@ -32,7 +32,7 @@ This list includes projects, extensions or demos showcasing how to use PostgreSQ
 
 ### 🎛️ Configuration Tuning
 
-* [Ottertune](https://ottertune.com/): AI to optimize your Amazon RDS and Aurora database
+* [~~Ottertune~~](https://ottertune.com/): ~~AI to optimize your Amazon RDS and Aurora database~~ Ottertune is no longer a company
 * [DBTune](https://www.dbtune.com/): AI driven PostgreSQL configuration tuning engine
 
 ## ✏️ Content
