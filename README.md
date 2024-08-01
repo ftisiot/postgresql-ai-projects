@@ -30,7 +30,7 @@ This list includes projects, extensions or demos showcasing how to use PostgreSQ
 
 ### ⚡️ Query Optimizer
 
-* [EverSQL query optimizer](https://www.eversql.com/sql-query-optimizer/?utm_medium=organic&utm_source=ext_blog&utm_content=listpostgresai): AI-driven query optimizer based on SQL and database metadata. Monitor your database and receive performance insights and improvement suggestions for free
+* [Aiven SQL Query Optimizer](https://aiven.io/tools/sql-query-optimizer?utm_medium=organic&utm_source=ext_blog&utm_content=listpostgresai): AI-driven query optimizer based on SQL and database metadata. Monitor your database and receive performance insights and improvement suggestions for free
 
 ### 🎛️ Configuration Tuning
 
