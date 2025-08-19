@@ -48,6 +48,8 @@ This list includes projects, extensions or demos showcasing how to use PostgreSQ
 * 📽️[PostgresML: How to Use AI Models and Machine Learning Algorithms in Your Database](https://www.youtube.com/watch?v=JTgl5GwrMu8) by Let's Talk Dev
 * 📝[What's Postgres Got To Do With AI?](https://www.crunchydata.com/blog/whats-postgres-got-to-do-with-ai) by Crunchy Data
 * 📝[Real-time text translation using the azure_ai extension in Azure Database for PostgreSQL](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/real-time-text-translation-using-the-azure-ai-extension-in-azure/ba-p/4081157) by [Denzil Ribeiro](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/218602)
+* 📽️ [Creating a Board Game Chatbot with Postgres, AI, and RAG](https://www.youtube.com/watch?v=EXk08pYVykE) by [Matt Cornillon](https://www.linkedin.com/in/matt-cornillon/) at [pgconf.eu 2023](https://2024.pgconf.eu/)
+* 📽️ [Full-Text-Search Explained from A to Z with French Food](https://www.youtube.com/watch?v=ypBM3rvAAiM) by [Matt Cornillon](https://www.linkedin.com/in/matt-cornillon/) at [pgDay Paris 2025](https://2024.pgconf.eu/)
 
 ### What's next
 
@@ -58,5 +60,5 @@ This list includes projects, extensions or demos showcasing how to use PostgreSQ
 ### Presentation slides
 
 * 🛝[Finding PostgreSQL’s fit in the AI space](https://ftisiot.net/talks/postgresql-fit-ai/) by [Francesco Tisiot](https://www.linkedin.com/in/francescotisiot)
-
-
+* 🛝[How I found my Pokémon cards thanks to Postgres: an AI Journey](https://github.com/Matthieu68857/how-i-found-my-pokemon-cards-thanks-to-postgres-an-ai-journey) by [Matt Cornillon](https://www.linkedin.com/in/matt-cornillon/) at [pgconf.eu 2023](https://2023.pgconf.eu/)
+* 🛝[Creating a Board Game Chatbot with Postgres, AI, and RAG](https://www.postgresql.eu/events/pgconfeu2024/sessions/session/5737/slides/581/Creating%20a%20Board%20Game%20Chatbot%20with%20Postgres,%20AI,%20and%20RAG%20-%20PGConf%20Europe%202024.pdf) by [Matt Cornillon](https://www.linkedin.com/in/matt-cornillon/) at [pgconf.eu 2023](https://2024.pgconf.eu/)
