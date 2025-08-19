@@ -15,6 +15,8 @@ This list includes projects, extensions or demos showcasing how to use PostgreSQ
 * [azure_local_ai](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/introducing-in-database-embedding-generation-for-azure-database/ba-p/4146265):  Enables you to generate embeddings within the PostgreSQL database.
 * [pgai](https://github.com/timescale/pgai): Enables you to generate embeddings within the PostgreSQL database. Developed by Timescale
 * [pgvectorscale](https://github.com/timescale/pgvectorscale): Works in conjunction with pgvector and adds the DiskANN indexing type. Developed by Timescale
+* [google_ml_integration](https://cloud.google.com/alloydb/docs/ai): It provides the AI query engine feature, which includes functions for generating embeddings, semantic ranking, and capacity to invoke predictions from models.
+
 
 ## 💡 Applications
 
