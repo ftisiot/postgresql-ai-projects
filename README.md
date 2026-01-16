@@ -33,6 +33,7 @@ This list includes projects, extensions or demos showcasing how to use PostgreSQ
 ### ⚡️ Query Optimizer
 
 * [Aiven SQL Query Optimizer](https://aiven.io/tools/sql-query-optimizer?utm_medium=organic&utm_source=ext_blog&utm_content=listpostgresai): AI-driven query optimizer based on SQL and database metadata. Monitor your database and receive performance insights and improvement suggestions for free
+* [pgAssistant-community](https://github.com/beh74/pgassistant-community): AI-driven query optimizer, tables definition helpers with guidelines and RFC(s). Configuration Tuning with pgTune connected to your database. Database report API that generate a report in markdown format.
 
 ### 🎛️ Configuration Tuning
 
