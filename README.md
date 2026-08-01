@@ -16,13 +16,10 @@ This list includes projects, extensions or demos showcasing how to use PostgreSQ
 * [pgai](https://github.com/timescale/pgai): Enables you to generate embeddings within the PostgreSQL database. Developed by Timescale
 * [pgvectorscale](https://github.com/timescale/pgvectorscale): Works in conjunction with pgvector and adds the DiskANN indexing type. Developed by Timescale
 * [google_ml_integration](https://cloud.google.com/alloydb/docs/ai): It provides the AI query engine feature, which includes functions for generating embeddings, semantic ranking, and capacity to invoke predictions from models.
+* [koldstore](https://github.com/kalamdb/koldstore): PostgreSQL tiered-storage that moves historical rows to Parquet while keeping the original table fully queryable and supporting updates and deletes.
 
 
 ## 💡 Applications
-
-### 🧠 Agent state / memory databases
-
-* [KalamDB](https://kalamdb.org): open-source SQL-first realtime state database for AI agents — USER-table isolation, live subscriptions, topics, and a PostgreSQL bridge via pg_kalam
 
 ### 🤖 Bots
 
