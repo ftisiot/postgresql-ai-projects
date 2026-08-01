@@ -20,6 +20,10 @@ This list includes projects, extensions or demos showcasing how to use PostgreSQ
 
 ## 💡 Applications
 
+### 🧠 Agent state / memory databases
+
+* [KalamDB](https://kalamdb.org): open-source SQL-first realtime state database for AI agents — USER-table isolation, live subscriptions, topics, and a PostgreSQL bridge via pg_kalam
+
 ### 🤖 Bots
 
 * [PostgresAI bot](https://postgres.ai/bot): a PostgreSQL expert bot, by [PostgresAI](https://twitter.com/postgres_ai)
